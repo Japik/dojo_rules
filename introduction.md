@@ -1,1 +1,3 @@
-I introduce myself :) I liked HTML & CSS 
+I introduce myself :) I liked 
+*HTML & CSS
+*Ruby 
